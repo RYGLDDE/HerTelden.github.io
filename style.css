@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+.bas {
+text-align: center;
+padding: 10px;
+}
+.box {
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+}
+.kucuk {
+width: 40%;
+margin: auto;
+}
+.font {
+    font-family: 'Poppins', sans-serif;
+}
+.kutu {
+  position: relative;
+  left: 30%;
+}
+.list {
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    display: inline-block;
+}
+.liste {
+    padding: 5px;
+    color: rgb(243, 36, 36);
+    top: 0;
+}
+a:active{color: red;}
+a:hover{color: red;}
+a{color: black;}
+
+.icon{
+    position: absolute;
+    top: 13%;
+    right: 3%;
+}
